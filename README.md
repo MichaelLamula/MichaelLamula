@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MichaelLamula
-- 👀 I’m interested in business analysis and sooftware engineering
-- 🌱 I’m currently learning Python and Java
+- 👀 I’m interested in sooftware engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me micheallamula@gmail.com/0766662330
 
